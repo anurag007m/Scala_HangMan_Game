@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.class
+*.jar
+*.war
+*.ear
+
+# sbt specific
+target/
+project/target/
+project/project/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+# Folder config file
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Node Modules
+node_modules/
+
+# Sbt history folder
+.history
+
+# Environment variable files
+.env
